@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8CEF4FC6-DE3C-4A32-8F90-756C0232AA9F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.RuntimeIssueBreakpoint">
+         <BreakpointContent
+            uuid = "9E382EB9-BD45-4A9F-9055-2D5143A3CC69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            type = "4">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6F003AF-B44D-42BA-BAC1-224AF7E77BB5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARShots/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A6F003AF-B44D-42BA-BAC1-224AF7E77BB5 - 499d3c68195a78bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARShots.AppDelegate.__deallocating_deinit"
+                  moduleName = "ARShots"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavel/Desktop/ARShots/ARShots/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "A6F003AF-B44D-42BA-BAC1-224AF7E77BB5 - 9500b5e75ecabb2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARShots.AppDelegate.__allocating_init() -&gt; ARShots.AppDelegate"
+                  moduleName = "ARShots"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavel/Desktop/ARShots/ARShots/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "A6F003AF-B44D-42BA-BAC1-224AF7E77BB5 - 6fc41c10aff72b72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARShots.AppDelegate.init() -&gt; ARShots.AppDelegate"
+                  moduleName = "ARShots"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavel/Desktop/ARShots/ARShots/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "A6F003AF-B44D-42BA-BAC1-224AF7E77BB5 - 10189638ec99c360"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ARShots"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavel/Desktop/ARShots/ARShots/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
